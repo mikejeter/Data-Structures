@@ -25,6 +25,7 @@ class Stack:
 
     def push(self, value):
         pass
+        
 
     def pop(self):
         pass
