@@ -89,7 +89,7 @@ return elements in Last In First Out order.
    as the underlying storage structure.
    Make sure the Stack tests pass.
 3. What is the difference between using an array vs. a linked list when 
-   implementing a Stack?
+   implementing a Stack? In the array you have the ability to sort through the data as with the linked list you add and remove from head and tail only.
 """
 class Stack:
     def __init__(self):
